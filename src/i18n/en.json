@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "home": "Home",
+    "culture": "Culture",
+    "nature": "Nature",
+    "gastronomy": "Gastronomy",
+    "history": "History",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Discover the heart of the Caribbean reborn with hope",
+    "subtitle": "A journey through the culture, nature and flavors of María La Baja",
+    "button": "Explore"
+  },
+  "culture": {
+    "title": "Our Living Culture",
+    "subtitle": "Afro-Colombian traditions that resonate with strength"
+  },
+  "nature": {
+    "title": "Natural Beauty of the Caribbean",
+    "subtitle": "Landscapes that captivate and ecosystems that inspire"
+  },
+  "gastronomy": {
+    "title": "Flavors of Our Land",
+    "subtitle": "Traditional cuisine that tells stories in every bite"
+  },
+  "history": {
+    "title": "History"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Want to know more about María La Baja? Write to us",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "button": "Send message",
+    "success": "Message sent successfully!",
+    "namePlaceholder": "Your full name",
+    "emailPlaceholder": "youremail@example.com",
+    "messagePlaceholder": "Tell us what you'd like to know..."
+  },
+  "footer": {
+    "tagline": "Land reborn with culture, peace and hope",
+    "rights": "All rights reserved",
+    "description": "María La Baja is a municipality in the Colombian Caribbean that celebrates its Afro-descendant identity and its process of social transformation."
+  }
+}

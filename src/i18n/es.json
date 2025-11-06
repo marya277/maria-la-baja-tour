@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "culture": "Cultura",
+    "nature": "Naturaleza",
+    "gastronomy": "Gastronomía",
+    "history": "Historia",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Descubre el corazón del Caribe que renació con esperanza",
+    "subtitle": "Un viaje por la cultura, naturaleza y sabores de María La Baja",
+    "button": "Explorar"
+  },
+  "culture": {
+    "title": "Nuestra Cultura Viva",
+    "subtitle": "Tradiciones afrocolombianas que resuenan con fuerza"
+  },
+  "nature": {
+    "title": "Belleza Natural del Caribe",
+    "subtitle": "Paisajes que enamoran y ecosistemas que inspiran"
+  },
+  "gastronomy": {
+    "title": "Sabores de Nuestra Tierra",
+    "subtitle": "Cocina tradicional que cuenta historias en cada bocado"
+  },
+  "history": {
+    "title": "Historia"
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "¿Quieres conocer más sobre María La Baja? Escríbenos",
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "message": "Mensaje",
+    "button": "Enviar mensaje",
+    "success": "¡Mensaje enviado con éxito!",
+    "namePlaceholder": "Tu nombre completo",
+    "emailPlaceholder": "tucorreo@ejemplo.com",
+    "messagePlaceholder": "Cuéntanos qué te gustaría saber..."
+  },
+  "footer": {
+    "tagline": "Tierra que renace con cultura, paz y esperanza",
+    "rights": "Todos los derechos reservados",
+    "description": "María La Baja es un municipio del Caribe colombiano que celebra su identidad afrodescendiente y su proceso de transformación social."
+  }
+}

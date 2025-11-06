@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "culture": "Culture",
+    "nature": "Nature",
+    "gastronomy": "Gastronomie",
+    "history": "Histoire",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Découvrez le cœur des Caraïbes renaît avec espoir",
+    "subtitle": "Un voyage à travers la culture, la nature et les saveurs de María La Baja",
+    "button": "Explorer"
+  },
+  "culture": {
+    "title": "Notre Culture Vivante",
+    "subtitle": "Traditions afro-colombiennes qui résonnent avec force"
+  },
+  "nature": {
+    "title": "Beauté Naturelle des Caraïbes",
+    "subtitle": "Paysages captivants et écosystèmes inspirants"
+  },
+  "gastronomy": {
+    "title": "Saveurs de Notre Terre",
+    "subtitle": "Cuisine traditionnelle qui raconte des histoires à chaque bouchée"
+  },
+  "history": {
+    "title": "Histoire"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Vous voulez en savoir plus sur María La Baja? Écrivez-nous",
+    "name": "Nom",
+    "email": "Email",
+    "message": "Message",
+    "button": "Envoyer le message",
+    "success": "Message envoyé avec succès!",
+    "namePlaceholder": "Votre nom complet",
+    "emailPlaceholder": "votreemail@exemple.com",
+    "messagePlaceholder": "Dites-nous ce que vous aimeriez savoir..."
+  },
+  "footer": {
+    "tagline": "Terre renaît avec culture, paix et espoir",
+    "rights": "Tous droits réservés",
+    "description": "María La Baja est une municipalité des Caraïbes colombiennes qui célèbre son identité afro-descendante et son processus de transformation sociale."
+  }
+}
