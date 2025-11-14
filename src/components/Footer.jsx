@@ -21,9 +21,6 @@ const Footer = ({ translations }) => {
 
           <div>
             <h3 className="font-bold text-lg mb-4">{translations.footer.description}</h3>
-            <p className="text-gray-300 leading-relaxed text-sm">
-              {translations.footer.description}
-            </p>
           </div>
 
           <div>

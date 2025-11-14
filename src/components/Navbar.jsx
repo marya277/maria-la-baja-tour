@@ -64,6 +64,13 @@ const Navbar = ({ currentLang, onLanguageChange, translations }) => {
               {translations.nav.history}
             </button>
             <button
+              onClick={() => scrollToSection('tourism')}
+              className="text-gray-700 hover:text-orange-500 transition-colors"
+            >
+              {translations.nav.tourism}
+            </button>
+
+            <button
               onClick={() => scrollToSection('contact')}
               className="text-gray-700 hover:text-orange-500 transition-colors"
             >
@@ -87,9 +94,8 @@ const Navbar = ({ currentLang, onLanguageChange, translations }) => {
                         onLanguageChange(lang.code);
                         setShowLangMenu(false);
                       }}
-                      className={`block w-full text-left px-4 py-2 hover:bg-orange-50 transition-colors ${
-                        currentLang === lang.code ? 'text-orange-500 font-medium' : 'text-gray-700'
-                      }`}
+                      className={`block w-full text-left px-4 py-2 hover:bg-orange-50 transition-colors ${currentLang === lang.code ? 'text-orange-500 font-medium' : 'text-gray-700'
+                        }`}
                     >
                       {lang.label}
                     </button>
@@ -150,6 +156,12 @@ const Navbar = ({ currentLang, onLanguageChange, translations }) => {
               {translations.nav.history}
             </button>
             <button
+              onClick={() => scrollToSection('tourism')}
+              className="block w-full text-left px-3 py-2 text-gray-700 hover:bg-orange-50 rounded-md"
+            >
+              {translations.nav.tourism}
+            </button>
+            <button
               onClick={() => scrollToSection('contact')}
               className="block w-full text-left px-3 py-2 text-gray-700 hover:bg-orange-50 rounded-md"
             >
@@ -169,11 +181,10 @@ const Navbar = ({ currentLang, onLanguageChange, translations }) => {
                   onLanguageChange(lang.code);
                   setShowLangMenu(false);
                 }}
-                className={`px-4 py-2 rounded-md ${
-                  currentLang === lang.code
-                    ? 'bg-orange-500 text-white'
-                    : 'bg-gray-100 text-gray-700'
-                }`}
+                className={`px-4 py-2 rounded-md ${currentLang === lang.code
+                  ? 'bg-orange-500 text-white'
+                  : 'bg-gray-100 text-gray-700'
+                  }`}
               >
                 {lang.label}
               </button>

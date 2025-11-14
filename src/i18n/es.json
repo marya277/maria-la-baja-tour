@@ -5,6 +5,7 @@
     "nature": "Naturaleza",
     "gastronomy": "Gastronomía",
     "history": "Historia",
+    "tourism": "Turismo",
     "contact": "Contacto"
   },
   "hero": {
@@ -27,6 +28,10 @@
   "history": {
     "title": "Historia"
   },
+  "tourism": {
+  "title": "Descubre María La Baja",
+  "subtitle": "Paisajes, cultura y música que te invitan a explorar el corazón del Caribe colombiano."
+},
   "contact": {
     "title": "Contáctanos",
     "subtitle": "¿Quieres conocer más sobre María La Baja? Escríbenos",
@@ -41,7 +46,41 @@
   },
   "footer": {
     "tagline": "Tierra que renace con cultura, paz y esperanza",
-    "rights": "Todos los derechos reservados",
+    "rights": "Maryah.Todos los derechos reservados",
     "description": "María La Baja es un municipio del Caribe colombiano que celebra su identidad afrodescendiente y su proceso de transformación social."
+  },
+  "postConflict": {
+    "title": "Postconflicto en María La Baja",
+    "subtitle": "Un panorama del proceso social en la región de los Montes de María, marcado por la persistencia de desafíos y la resiliencia comunitaria.",
+    "contextTitle": "Montes de María:",
+    "contextDescription": "Territorio de disputa y resistencia.",
+    "noteTitle": "Nota Importante:",
+    "noteDescription": "El postconflicto en María La Baja muestra que el fin de las hostilidades armadas no es sinónimo del fin de la violencia social. Es crucial garantizar el acceso a derechos básicos (como el agua potable) y la restitución efectiva de tierras para la paz duradera.",
+    "cards": {
+      "challenges": {
+        "title": "Desafíos Persistentes",
+        "subtitle": "Violencia social continua"
+      },
+      "reparation": {
+        "title": "Reparación Colectiva",
+        "subtitle": "Justicia restaurativa"
+      },
+      "water": {
+        "title": "Crisis del Agua",
+        "subtitle": "Acceso al recurso hídrico"
+      },
+      "land": {
+        "title": "Tierras y Palma",
+        "subtitle": "Disputa territorial"
+      },
+      "economy": {
+        "title": "Recuperación Económica",
+        "subtitle": "Cultivos tradicionales"
+      },
+      "memory": {
+        "title": "Memoria y Cultura",
+        "subtitle": "Preservando identidad"
+      }
+    }
   }
 }

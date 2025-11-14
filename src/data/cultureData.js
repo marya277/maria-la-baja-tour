@@ -1,4 +1,4 @@
-// src/data/cultureData.js
+
 export const cultureData = [
   {
     id: 1,
@@ -29,7 +29,7 @@ export const cultureData = [
       fr: "Espace culturel qui préserve la mémoire du village, son histoire et sa renaissance après le conflit."
     },
     icon: "Building",
-    videoUrl: "https://www.youtube.com/watch?v=A61vJyePsos",
+    videoUrl: "https://www.youtube.com/embed/A61vJyePsos?si=y1ICnRJxDsjJXuQw",
     videoType: "youtube"
   },
   {
@@ -61,7 +61,7 @@ export const cultureData = [
       fr: "Symbole vivant de l'identité à María La Baja. Les tresses racontent des histoires de résistance et de beauté ancestrale."
     },
     icon: "Scissors",
-    videoUrl: "https://res.cloudinary.com/dvvp37srk/video/upload/v1762406580/trenzado_maria_la_baja_azm6wd.mp4",
+    videoUrl: "https://res.cloudinary.com/dvvp37srk/video/upload/v1762738927/TrenZarte___Tejiendo_memorias_jxo2oj.mp4",
     videoType: "cloudinary"
   }
 ];

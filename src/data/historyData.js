@@ -8,7 +8,7 @@ export const historyData = {
       "Hoy, María La Baja se levanta como símbolo de resistencia pacífica, donde la cultura, la música y las tradiciones se convierten en herramientas de sanación colectiva. Cada tambor que suena, cada plato que se comparte, cada sonrisa que se regala, es un acto de resistencia y renacimiento.",
       "Este territorio nos enseña que la paz no es solo la ausencia de guerra, sino la construcción activa de un futuro donde la dignidad, la memoria y la esperanza florecen en cada rincón."
     ],
-    callToAction: "Únete a esta historia de transformación"
+   callToAction: "Conoce nuestra historia de transformación"
   },
   en: {
     title: "A story of resilience and hope",
@@ -19,7 +19,7 @@ export const historyData = {
       "Today, María La Baja stands as a symbol of peaceful resistance, where culture, music and traditions become tools for collective healing. Every drum that sounds, every dish that is shared, every smile that is given, is an act of resistance and rebirth.",
       "This territory teaches us that peace is not just the absence of war, but the active construction of a future where dignity, memory and hope flourish in every corner."
     ],
-    callToAction: "Join this story of transformation"
+   callToAction: "Learn about our transformation story"
   },
   fr: {
     title: "Une histoire de résilience et d'espoir",
@@ -30,6 +30,6 @@ export const historyData = {
       "Aujourd'hui, María La Baja se dresse comme un symbole de résistance pacifique, où la culture, la musique et les traditions deviennent des outils de guérison collective. Chaque tambour qui résonne, chaque plat partagé, chaque sourire offert, est un acte de résistance et de renaissance.",
       "Ce territoire nous enseigne que la paix n'est pas seulement l'absence de guerre, mais la construction active d'un avenir où la dignité, la mémoire et l'espoir s'épanouissent dans chaque coin."
     ],
-    callToAction: "Rejoignez cette histoire de transformation"
+    callToAction: "Découvrez notre histoire de transformation"
   }
 };

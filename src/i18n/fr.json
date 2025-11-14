@@ -5,6 +5,7 @@
     "nature": "Nature",
     "gastronomy": "Gastronomie",
     "history": "Histoire",
+    "tourism": "Tourisme",
     "contact": "Contact"
   },
   "hero": {
@@ -27,6 +28,10 @@
   "history": {
     "title": "Histoire"
   },
+  "tourism": {
+  "title": "Découvrez María La Baja",
+  "subtitle": "Paysages, culture et musique vous invitant à explorer le cœur des Caraïbes colombiennes."
+},
   "contact": {
     "title": "Contactez-nous",
     "subtitle": "Vous voulez en savoir plus sur María La Baja? Écrivez-nous",
@@ -41,7 +46,41 @@
   },
   "footer": {
     "tagline": "Terre renaît avec culture, paix et espoir",
-    "rights": "Tous droits réservés",
+    "rights": "Maryah.Tous droits réservés",
     "description": "María La Baja est une municipalité des Caraïbes colombiennes qui célèbre son identité afro-descendante et son processus de transformation sociale."
+  },
+  "postConflict": {
+    "title": "Post-Conflit à María La Baja",
+    "subtitle": "Un aperçu du processus social dans la région des Montes de María, marqué par des défis persistants et la résilience communautaire.",
+    "contextTitle": "Montes de María:",
+    "contextDescription": "Territoire de conflit et de résistance.",
+    "noteTitle": "Note Importante:",
+    "noteDescription": "Le post-conflit à María La Baja montre que la fin des hostilités armées n'est pas synonyme de fin de la violence sociale. Il est crucial de garantir l'accès aux droits fondamentaux (comme l'eau potable) et la restitution effective des terres pour une paix durable.",
+    "cards": {
+      "challenges": {
+        "title": "Défis Persistants",
+        "subtitle": "Violence sociale continue"
+      },
+      "reparation": {
+        "title": "Réparation Collective",
+        "subtitle": "Justice restaurative"
+      },
+      "water": {
+        "title": "Crise de l'Eau",
+        "subtitle": "Accès aux ressources en eau"
+      },
+      "land": {
+        "title": "Terres et Palme",
+        "subtitle": "Conflit territorial"
+      },
+      "economy": {
+        "title": "Récupération Économique",
+        "subtitle": "Cultures traditionnelles"
+      },
+      "memory": {
+        "title": "Mémoire et Culture",
+        "subtitle": "Préserver l'identité"
+      }
+    }
   }
 }

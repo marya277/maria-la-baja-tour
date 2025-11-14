@@ -3,9 +3,18 @@ import { historyData } from '../data/historyData';
 
 const HistorySection = ({ currentLang, translations }) => {
   const content = historyData[currentLang];
+  const scrollToPostConflict = () => {
+    const postConflictSection = document.getElementById('post-conflict');
+    if (postConflictSection) {
+      postConflictSection.scrollIntoView({ 
+        behavior: 'smooth',
+        block: 'start'
+      });
+    }
+  };
 
   return (
-    <section id="history" className="py-20 bg-gradient-to-br from-green-50 via-blue-50 to-teal-50">
+    <section id="history" className="py-20 bg-gradient-to-br from-green-100 via-blue-100 to-teal-100">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
           <h2 className="text-4xl md:text-5xl font-bold text-gray-800 mb-4">
@@ -96,7 +105,10 @@ const HistorySection = ({ currentLang, translations }) => {
         </div>
 
         <div className="text-center">
-          <button className="bg-gradient-to-r from-green-500 to-teal-500 text-white px-10 py-4 rounded-full font-semibold text-lg hover:from-green-600 hover:to-teal-600 transition-all transform hover:scale-105 shadow-xl">
+         <button 
+            onClick={scrollToPostConflict}
+            className="bg-gradient-to-r from-green-500 to-teal-500 text-white px-10 py-4 rounded-full font-semibold text-lg hover:from-green-600 hover:to-teal-600 transition-all transform hover:scale-105 shadow-xl"
+          >
             {content.callToAction}
           </button>
         </div>

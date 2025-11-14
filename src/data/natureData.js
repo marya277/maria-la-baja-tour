@@ -1,10 +1,10 @@
-// src/data/natureData.js
-import tierraAgricola from '../assets/tierra agricola.jpg';
+
+import tierraAgricola from '../assets/tierra agricola.png';
 import cultivoMaiz from '../assets/cultivo maiz.jpg';
-import cienaga from '../assets/cienaga.jpg';
-import atardecer from '../assets/atardecer.jpg';
-import plazaMariaLaBaja from '../assets/plazamarialabaja.jpg';
-import cerroCapiro from '../assets/cerro del capiro.jpeg';
+import cienaga from '../assets/cienaga.png';
+import atardecer from '../assets/atardecer.png';
+import plazaMariaLaBaja from '../assets/plazamarialabaja.png';
+import cerroCapiro from '../assets/cerro del capiro.png';
 
 export const natureData = [
   {

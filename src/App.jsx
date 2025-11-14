@@ -7,6 +7,8 @@ import GastronomySection from './components/GastronomySection';
 import HistorySection from './components/HistorySection';
 import ContactForm from './ContactForm';
 import Footer from './components/Footer';
+import TourismSection from './components/TourismSection';
+import PostConflictAndContactSection from './components/PostConflictAndContactSection';
 
 import esTranslations from './i18n/es.json';
 import enTranslations from './i18n/en.json';
@@ -41,11 +43,12 @@ function App() {
         translations={t}
       />
       <Hero translations={t} />
+      <HistorySection currentLang={currentLang} translations={t} />
       <CultureSection currentLang={currentLang} translations={t} />
       <NatureGallery currentLang={currentLang} translations={t} />
       <GastronomySection currentLang={currentLang} translations={t} />
-      <HistorySection currentLang={currentLang} translations={t} />
-      <ContactForm translations={t} />
+      <TourismSection  currentLang={currentLang} translations={t} />
+      <PostConflictAndContactSection currentLang={currentLang} translations={t} />     
       <Footer translations={t} />
     </div>
   );

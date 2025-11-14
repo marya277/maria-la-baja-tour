@@ -5,6 +5,7 @@
     "nature": "Nature",
     "gastronomy": "Gastronomy",
     "history": "History",
+    "tourism": "Tourism",
     "contact": "Contact"
   },
   "hero": {
@@ -27,6 +28,10 @@
   "history": {
     "title": "History"
   },
+  "tourism": {
+  "title": "Discover María La Baja",
+  "subtitle": "Landscapes, culture, and music inviting you to explore the heart of the Colombian Caribbean."
+},
   "contact": {
     "title": "Contact Us",
     "subtitle": "Want to know more about María La Baja? Write to us",
@@ -41,7 +46,41 @@
   },
   "footer": {
     "tagline": "Land reborn with culture, peace and hope",
-    "rights": "All rights reserved",
+    "rights": "Maryah.All rights reserved",
     "description": "María La Baja is a municipality in the Colombian Caribbean that celebrates its Afro-descendant identity and its process of social transformation."
+  },
+  "postConflict": {
+    "title": "Post-Conflict in María La Baja",
+    "subtitle": "An overview of the social process in the Montes de María region, marked by persistent challenges and community resilience.",
+    "contextTitle": "Montes de María:",
+    "contextDescription": "Territory of dispute and resistance.",
+    "noteTitle": "Important Note:",
+    "noteDescription": "The post-conflict in María La Baja shows that the end of armed hostilities is not synonymous with the end of social violence. It is crucial to guarantee access to basic rights (such as drinking water) and effective land restitution for lasting peace.",
+    "cards": {
+      "challenges": {
+        "title": "Persistent Challenges",
+        "subtitle": "Ongoing social violence"
+      },
+      "reparation": {
+        "title": "Collective Reparation",
+        "subtitle": "Restorative justice"
+      },
+      "water": {
+        "title": "Water Crisis",
+        "subtitle": "Access to water resources"
+      },
+      "land": {
+        "title": "Land and Palm",
+        "subtitle": "Territorial dispute"
+      },
+      "economy": {
+        "title": "Economic Recovery",
+        "subtitle": "Traditional crops"
+      },
+      "memory": {
+        "title": "Memory and Culture",
+        "subtitle": "Preserving identity"
+      }
+    }
   }
 }
