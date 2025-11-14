@@ -57,30 +57,22 @@
     "noteTitle": "Nota Importante:",
     "noteDescription": "El postconflicto en María La Baja muestra que el fin de las hostilidades armadas no es sinónimo del fin de la violencia social. Es crucial garantizar el acceso a derechos básicos (como el agua potable) y la restitución efectiva de tierras para la paz duradera.",
     "cards": {
-      "challenges": {
-        "title": "Desafíos Persistentes",
-        "subtitle": "Violencia social continua"
-      },
-      "reparation": {
-        "title": "Reparación Colectiva",
-        "subtitle": "Justicia restaurativa"
-      },
-      "water": {
-        "title": "Crisis del Agua",
-        "subtitle": "Acceso al recurso hídrico"
-      },
-      "land": {
-        "title": "Tierras y Palma",
-        "subtitle": "Disputa territorial"
-      },
-      "economy": {
-        "title": "Recuperación Económica",
-        "subtitle": "Cultivos tradicionales"
-      },
-      "memory": {
-        "title": "Memoria y Cultura",
-        "subtitle": "Preservando identidad"
-      }
-    }
+  "reparation": {
+    "title": "Reparación Colectiva",
+    "subtitle": "Justicia restaurativa"
+  },
+  "economy": {
+    "title": "Recuperación Económica",
+    "subtitle": "Cultivos tradicionales"
+  },
+  "memory": {
+    "title": "Memoria y Cultura",
+    "subtitle": "Preservando identidad"
+  },
+  "entrepreneurship": {
+    "title": "Emprendimiento Local",
+    "subtitle": "Desarrollo con identidad"
+  }
+}
   }
 }

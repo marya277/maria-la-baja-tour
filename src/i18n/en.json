@@ -56,31 +56,23 @@
     "contextDescription": "Territory of dispute and resistance.",
     "noteTitle": "Important Note:",
     "noteDescription": "The post-conflict in María La Baja shows that the end of armed hostilities is not synonymous with the end of social violence. It is crucial to guarantee access to basic rights (such as drinking water) and effective land restitution for lasting peace.",
-    "cards": {
-      "challenges": {
-        "title": "Persistent Challenges",
-        "subtitle": "Ongoing social violence"
-      },
-      "reparation": {
-        "title": "Collective Reparation",
-        "subtitle": "Restorative justice"
-      },
-      "water": {
-        "title": "Water Crisis",
-        "subtitle": "Access to water resources"
-      },
-      "land": {
-        "title": "Land and Palm",
-        "subtitle": "Territorial dispute"
-      },
-      "economy": {
-        "title": "Economic Recovery",
-        "subtitle": "Traditional crops"
-      },
-      "memory": {
-        "title": "Memory and Culture",
-        "subtitle": "Preserving identity"
-      }
-    }
+   "cards": {
+  "reparation": {
+    "title": "Collective Reparation",
+    "subtitle": "Restorative justice"
+  },
+  "economy": {
+    "title": "Economic Recovery",
+    "subtitle": "Traditional crops"
+  },
+  "memory": {
+    "title": "Memory and Culture",
+    "subtitle": "Preserving identity"
+  },
+  "entrepreneurship": {
+    "title": "Local Entrepreneurship",
+    "subtitle": "Development with identity"
+  }
+}
   }
 }

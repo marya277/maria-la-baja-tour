@@ -56,31 +56,23 @@
     "contextDescription": "Territoire de conflit et de résistance.",
     "noteTitle": "Note Importante:",
     "noteDescription": "Le post-conflit à María La Baja montre que la fin des hostilités armées n'est pas synonyme de fin de la violence sociale. Il est crucial de garantir l'accès aux droits fondamentaux (comme l'eau potable) et la restitution effective des terres pour une paix durable.",
-    "cards": {
-      "challenges": {
-        "title": "Défis Persistants",
-        "subtitle": "Violence sociale continue"
-      },
-      "reparation": {
-        "title": "Réparation Collective",
-        "subtitle": "Justice restaurative"
-      },
-      "water": {
-        "title": "Crise de l'Eau",
-        "subtitle": "Accès aux ressources en eau"
-      },
-      "land": {
-        "title": "Terres et Palme",
-        "subtitle": "Conflit territorial"
-      },
-      "economy": {
-        "title": "Récupération Économique",
-        "subtitle": "Cultures traditionnelles"
-      },
-      "memory": {
-        "title": "Mémoire et Culture",
-        "subtitle": "Préserver l'identité"
-      }
-    }
+   "cards": {
+  "reparation": {
+    "title": "Réparation Collective",
+    "subtitle": "Justice restaurative"
+  },
+  "economy": {
+    "title": "Récupération Économique",
+    "subtitle": "Cultures traditionnelles"
+  },
+  "memory": {
+    "title": "Mémoire et Culture",
+    "subtitle": "Préserver l'identité"
+  },
+  "entrepreneurship": {
+    "title": "Entrepreneuriat Local",
+    "subtitle": "Développement avec identité"
+  }
+}
   }
 }
