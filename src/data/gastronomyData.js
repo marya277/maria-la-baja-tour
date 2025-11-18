@@ -1,7 +1,7 @@
 
 import arrozConCoco from '../assets/arroz_con_coco.png';
 import pescadoFrito from '../assets/mojarra-close.jpg';
-import sancochoGallina from '../assets/sancocho gallina.jpg';
+import sancochoGallina from '../assets/sancochogallina01.jpeg';
 import fritos from '../assets/fritos.jpg';
 import moteDeQueso from '../assets/mote de queso.png';
 import sueroCosteño from '../assets/suero_costeno.png';

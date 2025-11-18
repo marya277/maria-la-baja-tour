@@ -61,7 +61,7 @@ export const cultureData = [
       fr: "Symbole vivant de l'identité à María La Baja. Les tresses racontent des histoires de résistance et de beauté ancestrale."
     },
     icon: "Scissors",
-    videoUrl: "https://res.cloudinary.com/dvvp37srk/video/upload/v1762738927/TrenZarte___Tejiendo_memorias_jxo2oj.mp4",
+    videoUrl: "https://res.cloudinary.com/dvvp37srk/video/upload/v1763501874/TrenzasFinal_piapbe.mp4",
     videoType: "cloudinary"
   }
 ];
