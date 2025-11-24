@@ -57,9 +57,9 @@ export const gastronomyData = [
       fr: "Beignets Côtiers"
     },
     description: {
-      es: "Patrimonio cultural del Caribe: carimañolas, arepas de huevo, arepas dulces y quibbes. Crujientes delicias acompañadas de suero y hogao.",
-      en: "Caribbean cultural heritage: carimañolas, egg arepas, sweet arepas and kibes. Crispy delicacies accompanied by suero and tomato sauce.",
-      fr: "Patrimoine culturel des Caraïbes : carimañolas, arepas aux œufs, arepas sucrées et kibes. Délices croustillantes accompagnées de suero et sauce tomate."
+      es: "Patrimonio cultural del Caribe: carimañolas, arepas de huevo, arepas dulces. Crujientes delicias acompañadas de suero y hogao.",
+      en: "Caribbean cultural heritage: carimañolas, egg arepas, sweet arepas. Crispy delicacies accompanied by suero and tomato sauce.",
+      fr: "Patrimoine culturel des Caraïbes : carimañolas, arepas aux œufs, arepas sucrées. Délices croustillantes accompagnées de suero et sauce tomate."
     },
     image: fritos
   },

@@ -48,7 +48,15 @@
   "footer": {
     "tagline": "Tierra que renace con cultura, paz y esperanza",
     "rights": "Maryah.Todos los derechos reservados",
-    "description": "María La Baja es un municipio del Caribe colombiano que celebra su identidad afrodescendiente y su proceso de transformación social."
+    "description": "María La Baja es un municipio del Caribe colombiano que celebra su identidad afrodescendiente y su proceso de transformación social.",
+    "explore": "Explora",
+    "essence": "Nuestra Esencia",
+    "location": "Bolívar, Región Caribe, Colombia",
+   "highlights": {
+    "festival": "Festival Nacional del Bullerengue",
+    "tradition": "Tradición afrodescendiente y cultura caribeña",
+    "peace": "Tierra de paz, memoria y resiliencia"
+  }
   },
   "bullerengue": {
       "title": "Festival del Bullerengue",

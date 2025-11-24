@@ -48,7 +48,15 @@
   "footer": {
     "tagline": "Land reborn with culture, peace and hope",
     "rights": "Maryah.All rights reserved",
-    "description": "María La Baja is a municipality in the Colombian Caribbean that celebrates its Afro-descendant identity and its process of social transformation."
+    "description": "María La Baja is a municipality in the Colombian Caribbean that celebrates its Afro-descendant identity and its process of social transformation.",
+    "explore": "Explore",
+    "essence": "Our Essence",
+    "location": "Bolívar, Caribbean Region, Colombia",
+    "highlights": {
+    "festival": "National Bullerengue Festival",
+    "tradition": "Afro-descendant tradition and Caribbean culture",
+    "peace": "Land of peace, memory and resilience"
+  }
   },
   "bullerengue": {
       "title": "Bullerengue Festival",
