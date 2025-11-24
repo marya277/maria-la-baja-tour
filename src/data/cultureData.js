@@ -13,8 +13,8 @@ export const cultureData = [
       fr: "Expression ancestrale afro-descendante célébrant la fertilité et la féminité."
     },
     icon: "Music",
-    videoUrl: "https://res.cloudinary.com/dvvp37srk/video/upload/v1762406600/Festival_del_aguacate_26_de_mayo_w27e2v.mp4",
-    videoType: "cloudinary"
+    videoUrl: "https://youtube.com/embed/RUOYoljzHlo",
+    videoType: "youtube"
   },
   {
     id: 2,
@@ -45,8 +45,8 @@ export const cultureData = [
       fr: "Vidéo montrant comment les femmes transforment fibres et rêves en art — symbole de force et de tradition."
     },
     icon: "Video",
-    videoUrl: "https://res.cloudinary.com/dvvp37srk/video/upload/v1762406513/artesania_Maria_la_baja_bku0zf.mp4",
-    videoType: "cloudinary"
+    videoUrl: "https://www.youtube.com/embed/zzruap6l7zA",
+    videoType: "youtube"
   },
   {
     id: 4,
@@ -61,7 +61,7 @@ export const cultureData = [
       fr: "Symbole vivant de l'identité à María La Baja. Les tresses racontent des histoires de résistance et de beauté ancestrale."
     },
     icon: "Scissors",
-    videoUrl: "https://res.cloudinary.com/dvvp37srk/video/upload/v1763501874/TrenzasFinal_piapbe.mp4",
-    videoType: "cloudinary"
+    videoUrl: "https://youtube.com/embed/mkfSMdcPX_8",
+    videoType: "youtube"
   }
 ];

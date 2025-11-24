@@ -69,7 +69,12 @@ const Navbar = ({ currentLang, onLanguageChange, translations }) => {
             >
               {translations.nav.tourism}
             </button>
-
+            <button
+              onClick={() => scrollToSection('bullerengue')}
+              className="text-gray-700 hover:text-orange-500 transition-colors"
+            >
+              {translations.nav.bullerengue}
+            </button>
             <button
               onClick={() => scrollToSection('contact')}
               className="text-gray-700 hover:text-orange-500 transition-colors"
@@ -160,6 +165,12 @@ const Navbar = ({ currentLang, onLanguageChange, translations }) => {
               className="block w-full text-left px-3 py-2 text-gray-700 hover:bg-orange-50 rounded-md"
             >
               {translations.nav.tourism}
+            </button>
+            <button
+              onClick={() => scrollToSection('bullerengue')}
+              className="block w-full text-left px-3 py-2 text-gray-700 hover:bg-orange-50 rounded-md"
+            >
+              {translations.nav.bullerengue}
             </button>
             <button
               onClick={() => scrollToSection('contact')}

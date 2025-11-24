@@ -8,7 +8,7 @@ import HistorySection from './components/HistorySection';
 import ContactForm from './ContactForm';
 import Footer from './components/Footer';
 import TourismSection from './components/TourismSection';
-import PostConflictAndContactSection from './components/PostConflictAndContactSection';
+import BullerengueCarousel from './components/BullerengueCarousel';
 
 import esTranslations from './i18n/es.json';
 import enTranslations from './i18n/en.json';
@@ -48,7 +48,8 @@ function App() {
       <NatureGallery currentLang={currentLang} translations={t} />
       <GastronomySection currentLang={currentLang} translations={t} />
       <TourismSection  currentLang={currentLang} translations={t} />
-      <PostConflictAndContactSection currentLang={currentLang} translations={t} />     
+      <BullerengueCarousel language={currentLang} />   
+      <ContactForm currentLang={currentLang} translations={t} />
       <Footer translations={t} />
     </div>
   );

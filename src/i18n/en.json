@@ -6,6 +6,7 @@
     "gastronomy": "Gastronomy",
     "history": "History",
     "tourism": "Tourism",
+    "bullerengue": "Bullerengue",
     "contact": "Contact"
   },
   "hero": {
@@ -49,29 +50,26 @@
     "rights": "Maryah.All rights reserved",
     "description": "María La Baja is a municipality in the Colombian Caribbean that celebrates its Afro-descendant identity and its process of social transformation."
   },
-  "postConflict": {
-    "title": "Post-Conflict in María La Baja",
-    "subtitle": "An overview of the social process in the Montes de María region, marked by persistent challenges and community resilience.",
-    "contextTitle": "Montes de María:",
-    "contextDescription": "Territory of dispute and resistance.",
-    "noteTitle": "Important Note:",
-    "noteDescription": "María La Baja advances in peacebuilding with the active participation of its communities. Through collective reparation, economic recovery, and cultural preservation, the territory demonstrates that peace is built with dignity, memory, and collective hope.",   "cards": {
-  "reparation": {
-    "title": "Collective Reparation",
-    "subtitle": "Restorative justice"
-  },
-  "economy": {
-    "title": "Economic Recovery",
-    "subtitle": "Traditional crops"
-  },
-  "memory": {
-    "title": "Memory and Culture",
-    "subtitle": "Preserving identity"
-  },
-  "entrepreneurship": {
-    "title": "Local Entrepreneurship",
-    "subtitle": "Development with identity"
-  }
-}
-  }
+  "bullerengue": {
+      "title": "Bullerengue Festival",
+      "subtitle": "Ancestral Afro-descendant tradition celebrating identity, resistance and life in María La Baja",
+      "cards": {
+        "drums": {
+          "title": "The Drums",
+          "subtitle": "The African pulse"
+        },
+        "singers": {
+          "title": "The Female Singers",
+          "subtitle": "Bearers of tradition"
+        },
+        "dance": {
+          "title": "The Dance",
+          "subtitle": "Celebration of life"
+        },
+        "heritage": {
+          "title": "Ancestral Heritage",
+          "subtitle": "Resistance and memory"
+        }
+      }
+    }
 }

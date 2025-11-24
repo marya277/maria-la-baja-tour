@@ -6,6 +6,7 @@
     "gastronomy": "Gastronomía",
     "history": "Historia",
     "tourism": "Turismo",
+    "bullerengue": "Bullerengue",
     "contact": "Contacto"
   },
   "hero": {
@@ -49,29 +50,26 @@
     "rights": "Maryah.Todos los derechos reservados",
     "description": "María La Baja es un municipio del Caribe colombiano que celebra su identidad afrodescendiente y su proceso de transformación social."
   },
-  "postConflict": {
-    "title": "Postconflicto en María La Baja",
-    "subtitle": "Un panorama del proceso social en la región de los Montes de María, marcado por la persistencia de desafíos y la resiliencia comunitaria.",
-    "contextTitle": "Montes de María:",
-    "contextDescription": "Territorio de disputa y resistencia.",
-    "noteTitle": "Nota Importante:",
-    "noteDescription": "María La Baja avanza en la construcción de paz con la participación activa de sus comunidades. A través de la reparación colectiva, la recuperación económica y la preservación cultural, el territorio demuestra que la paz se construye con dignidad, memoria y esperanza colectiva.",    "cards": {
-  "reparation": {
-    "title": "Reparación Colectiva",
-    "subtitle": "Justicia restaurativa"
-  },
-  "economy": {
-    "title": "Recuperación Económica",
-    "subtitle": "Cultivos tradicionales"
-  },
-  "memory": {
-    "title": "Memoria y Cultura",
-    "subtitle": "Preservando identidad"
-  },
-  "entrepreneurship": {
-    "title": "Emprendimiento Local",
-    "subtitle": "Desarrollo con identidad"
-  }
-}
-  }
+  "bullerengue": {
+      "title": "Festival del Bullerengue",
+      "subtitle": "Tradición ancestral afrodescendiente que celebra la identidad, la resistencia y la vida en María La Baja",
+      "cards": {
+        "drums": {
+          "title": "Los Tambores",
+          "subtitle": "El pulso africano"
+        },
+        "singers": {
+          "title": "Las Cantadoras",
+          "subtitle": "Portadoras de la tradición"
+        },
+        "dance": {
+          "title": "La Danza",
+          "subtitle": "Celebración de la vida"
+        },
+        "heritage": {
+          "title": "Herencia Ancestral",
+          "subtitle": "Resistencia y memoria"
+        }
+      }
+    }
 }

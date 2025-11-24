@@ -12,8 +12,8 @@ export const tourismData = [
       fr: "Championne 2019 comme meilleure chanteuse de bullerengue à Puerto Escondido, Córdoba. Rosita maintient vivante l'essence culturelle en enseignant aux nouvelles générations leurs racines ancestrales."
     },
     icon: "Mic2",
-    videoUrl: "https://res.cloudinary.com/dvvp37srk/video/upload/v1762999242/EntrevistaRositaCaraballo__Final_kyhbad.mp4",
-    videoType: "cloudinary"
+    videoUrl: "https://www.youtube.com/embed/B_RdcGDc9p4",
+    videoType: "youtube"
   },
   {
     id: 2,
@@ -44,8 +44,8 @@ export const tourismData = [
       fr: "Un chanteur de champeta vous invite à découvrir María La Baja : son rythme, son histoire et sa joie."
     },
     icon: "Music",
-    videoUrl: "https://res.cloudinary.com/dvvp37srk/video/upload/v1763060544/EntrevistaCantanteChampetaWilsonVegaMariaLaBaja_hnh7lm.mp4",
-    videoType: "cloudinary"
+    videoUrl: "https://www.youtube.com/embed/3_RnIY-vxMw",
+    videoType: "youtube"
   }
 ];
 

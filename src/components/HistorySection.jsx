@@ -103,15 +103,6 @@ const HistorySection = ({ currentLang, translations }) => {
             </div>
           </div>
         </div>
-
-        <div className="text-center">
-         <button 
-            onClick={scrollToPostConflict}
-            className="bg-gradient-to-r from-green-500 to-teal-500 text-white px-10 py-4 rounded-full font-semibold text-lg hover:from-green-600 hover:to-teal-600 transition-all transform hover:scale-105 shadow-xl"
-          >
-            {content.callToAction}
-          </button>
-        </div>
       </div>
     </section>
   );
