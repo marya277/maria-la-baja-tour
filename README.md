@@ -68,7 +68,7 @@ src/
 
 ```bash
 # Clonar el repositorio
-git clone https:(https://github.com/marya277/maria-la-baja-tour.git)
+git clone (https://github.com/marya277/maria-la-baja-tour.git)
 
 # Navegar al directorio
 cd maria-la-baja
